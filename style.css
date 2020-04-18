@@ -1,0 +1,48 @@
+body, html {
+	font-family: 'Crimson Text', serif;
+	width: 100%;
+	height: 100%;
+	background: url(header.jpg) no-repeat center center fixed; 
+	background-size: cover;
+}
+
+h1 {
+	color: #276aad;;
+}
+
+hr{
+	border-width: 3px;
+	border-color: #e4260c;
+	max-width: 20px;
+}
+
+.btn-xl{
+	padding: 4px;
+}
+
+.btn{
+	text-transform: uppercase;
+}
+
+.btn-primary{
+	background-color: #e4260c;
+	border-color:#e4260c;
+	border-radius: 300px;
+}
+
+.btn:hover{
+	background-color: #fd5d47;
+	border-color:#fd5d47;
+}
+
+.btn:visited{
+	background-color: #fd5d47;
+}
+
+.btn:focus{
+	background-color: #fd5d47;
+}
+
+.buffer{
+	height: 10rem;
+}
